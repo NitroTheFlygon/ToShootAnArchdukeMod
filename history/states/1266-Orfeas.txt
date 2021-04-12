@@ -8,20 +8,19 @@ state={
 
 	history={
 		victory_points = {
-			13475 1 
+			6864 3 
 		}
-		owner = BUL
+		owner = TUR
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = BUL
-		add_claim_by = GRE
+		add_core_of = TUR
 
 	}
 
 	provinces={
-		13475 13559 
+		13475 
 	}
 	manpower=5100
 	buildings_max_level_factor=1.000

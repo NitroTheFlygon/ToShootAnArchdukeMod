@@ -17,9 +17,6 @@ state={
 			947 3
 		}
 		victory_points = {
-			6864 1 
-		}
-		victory_points = {
 			11778 1
 		}
 		add_core_of = TUR

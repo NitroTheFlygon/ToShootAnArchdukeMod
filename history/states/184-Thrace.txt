@@ -7,6 +7,9 @@ state={
 	}
 
 	history={
+		victory_points = {
+			11905 1 
+		}
 		owner = BUL
 		buildings = {
 			infrastructure = 4
@@ -22,9 +25,9 @@ state={
 	}
 
 	provinces={
-		8435 11774 
+		8435 11774 11905 13559 
 	}
-	manpower=81500
+	manpower=165320
 	buildings_max_level_factor=1.000
 	state_category=rural
 }
