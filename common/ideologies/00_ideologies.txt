@@ -1,16 +1,16 @@
 ideologies = {
 	
-	communism = {
+	hardline_socialism = {
 	
 		types = {
 			
 			marxism = {
 			}
 		
-			anarcho-communism = {
+			anarcho-socialism = {
 			}
 		
-			national_communism = {
+			spartacism = {
 			}
 			
 			bolshevism = {
