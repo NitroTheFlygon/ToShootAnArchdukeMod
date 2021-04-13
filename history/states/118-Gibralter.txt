@@ -17,6 +17,7 @@ state=
 			}
 		}
 		add_claim_by = SPR
+		add_claim_by = ADU
 	}
 	provinces={
 		4135
