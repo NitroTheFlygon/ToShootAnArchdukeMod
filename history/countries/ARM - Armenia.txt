@@ -61,16 +61,11 @@ if = {
 	}
 }
 
-set_popularities = {	centrism = 100
+set_politics = {
+	ruling_party = centrism
+	last_election = "1934.1.1"
+	election_frequency = 48
+	elections_allowed = no
 }
-
-create_country_leader = {
-	name = "Drastamat Kanayan"
-	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
-	expire = "1953.3.1"
-	ideology = centrist_constitutional_republic
-	traits = {
-		
-	}
+set_popularities = {	centrism = 100
 }
