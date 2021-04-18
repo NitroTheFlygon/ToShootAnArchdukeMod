@@ -2,7 +2,7 @@
 state={
 	id=425
 	name="STATE_425" # Mysore
-	manpower = 6348200
+	manpower = 4348200
 	
 	state_category = rural
 	
@@ -23,6 +23,6 @@ state={
 	}
 
 	provinces={
-		1412 4315 4344 5032 7250 7411 8011 8100 10208 10259 10799 12146 12734 
+		1412 4315 4344 8011 8100 12146 12734 
 	}
 }

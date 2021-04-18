@@ -3,19 +3,19 @@ state={
 	name="STATE_1284"
 	
 	history={
-		owner = KEN
+		owner = RAJ
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = KEN
+		add_core_of = RAJ
 
 	}
 
 	provinces={
-		13479 13480
+		5032 7411 10208 10259 10799
 	}
-	manpower=392000
+	manpower=20000000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

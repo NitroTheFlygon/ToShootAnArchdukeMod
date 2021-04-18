@@ -3,24 +3,23 @@ state={
 	name="STATE_802"
 
 	history={
-		owner = GER
+		owner = NGA
 		victory_points = {
 			3485 1 
 		}
 
 		buildings = {
-			infrastructure = 6
+			infrastructure = 3
 
 		}
-		add_core_of = GER
-		add_core_of = PRE
+		add_core_of = NGA
 
 	}
 
 	provinces={
-		3485
+		8034 10831
 	}
-	manpower=61003
+	manpower=2000000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 }
