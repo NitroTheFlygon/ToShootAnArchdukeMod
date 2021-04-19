@@ -3,19 +3,18 @@ state={
 	name="STATE_874"
 
 	history = {
-		owner = EGY
+		owner = TMS
 		buildings = {
 			infrastructure = 1
 		}
 
-		add_claim_by = EGY
-		add_claim_by = SUD
+		add_core_of = TMS
 	}
 
 	provinces={
-		13259 
+		4958 7560 10357
 	}
-	manpower=2
+	manpower=200000
 	buildings_max_level_factor=1.000
 	state_category = wasteland
 }

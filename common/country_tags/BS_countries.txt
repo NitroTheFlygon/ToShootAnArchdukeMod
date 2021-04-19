@@ -85,7 +85,6 @@ YCT = "countries/Yucatan.txt"
 ##South America##
 PTG = "countries/Patagonia.txt"
 
-
 ##Anatolia and the Middle-East##
 ASY = "countries/Assyria.txt"
 BHR = "countries/Bahrain.txt"

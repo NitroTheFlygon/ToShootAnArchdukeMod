@@ -21,7 +21,6 @@ state={
 		add_core_of = GER
 		add_core_of = PRE
 		}
-	}
 
 	provinces={
 		552 3438 3485 3545 6534 6595 9570 11517 3572
