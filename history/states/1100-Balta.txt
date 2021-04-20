@@ -3,21 +3,21 @@ state={
 	name="STATE_1100"
 
 	history={
-		owner = UKR
+		owner = AFG
 		victory_points = {
 			9576 1 
 		}
 		buildings = {
 			infrastructure = 5
 		}
-		add_core_of = UKR
-		add_core_of = MOL
+		add_core_of = AFG
+		add_core_of = HZR
 	}
 
 	provinces={
-		9576 
+		1995 2078 7916 10789 12788
 	}
-	manpower=302021
+	manpower=750000
 	buildings_max_level_factor=1.000
-	state_category = pastoral
+	state_category = town
 }
