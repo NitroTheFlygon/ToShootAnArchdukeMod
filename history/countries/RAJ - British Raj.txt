@@ -31,7 +31,7 @@ if = {
 	add_to_tech_sharing_group = commonwealth_research
 }
 
-puppet = MDS
+puppet = TVC
 puppet = ORS
 puppet = GJT
 puppet = MYS

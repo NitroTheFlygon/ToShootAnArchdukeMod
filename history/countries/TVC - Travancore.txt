@@ -112,7 +112,6 @@ set_convoys = 20
 		dispersed_industry3 = 1
 	}
 }
-set_cosmetic_tag = MDS_RAJ
 
 set_politics = {
 	ruling_party = authoritarianism

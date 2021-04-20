@@ -3,21 +3,19 @@ state={
 	name="STATE_938"
 
 	history={
-		owner = SCS
+		owner = RAJ
 		buildings = {
 			infrastructure = 5
 
 		}
-		add_core_of = SCS
-		add_core_of = CRO
-		add_core_of = BOS
+		add_core_of = RAJ
 
 	}
 
 	provinces={
-		13278 
+		4104 7090 10088 10116 11924 12063 12462
 	}
-	manpower=3271
+	manpower=3000000
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=rural
 }
