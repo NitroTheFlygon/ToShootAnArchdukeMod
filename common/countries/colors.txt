@@ -23,7 +23,7 @@ HYD = {
 	color = rgb { 255 195 0 }
 	color_ui = rgb { 255 195 0 }
 }
-MDS = {
+TVC = {
 	color = rgb { 20 84 39 }
 	color_ui = rgb { 20 84 39 }
 }
