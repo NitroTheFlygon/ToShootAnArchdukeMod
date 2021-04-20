@@ -3,25 +3,20 @@ state={
     name="STATE_1204"
 
     history={
-        owner = BUL
+        owner = AFG
         
         buildings = {
-            infrastructure = 3
+            infrastructure = 2
         }
-        add_core_of = BUL
-        add_core_of = MAC
-		add_claim_by = SER
+        add_core_of = AFG
+		add_core_of = BLC
+
     }
 
     provinces={
-        13315 
+        2101 4949 5020
     }
-    manpower= 11234
+    manpower=150000
     buildings_max_level_factor=1
     state_category="pastoral"
-    
-    resources={
-        aluminium=2
-        chromium=4
-    }
 }
