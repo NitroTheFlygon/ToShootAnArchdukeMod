@@ -3,22 +3,19 @@ state={
 	name="STATE_1068"
 
 	history={
-		owner = FIN
+		owner = TZN
 		buildings = {
-			infrastructure = 6
+			infrastructure = 3
 			dockyard = 1
-			6157 = {
-				naval_base = 2
-				coastal_bunker = 2
-			}
 		}
-		add_core_of = FIN
+		add_core_of = TZN
+		add_claim_by = ZNZ
 	}
 
 	provinces={
-		6157 
+		2196 8182 8183 12944
 	}
-	manpower=15000
+	manpower=1500000
 	buildings_max_level_factor=1.000
-	state_category = pastoral
+	state_category = rural
 }
