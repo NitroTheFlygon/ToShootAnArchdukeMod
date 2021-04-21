@@ -1,4 +1,20 @@
 #reload countrycolors
+KLM = {
+	color = rgb { 255 213 77 }
+	color_ui = rgb { 255 213 77 }
+}
+CLC = {
+	color = rgb { 198 198 0 }
+	color_ui = rgb { 198 198 0 }
+}
+CPD = {
+	color = rgb { 200 131 255 }
+	color_ui = rgb { 200 131 255 }
+}
+PTS = {
+	color = rgb { 124 0 165 }
+	color_ui = rgb { 124 0 165 }
+}
 ASY = {
 	color = rgb { 255 159 123 }
 	color_ui = rgb { 255 159 123 }
