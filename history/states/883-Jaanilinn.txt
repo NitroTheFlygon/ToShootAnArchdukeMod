@@ -3,19 +3,19 @@ state={
 	name="STATE_883"
 
 	history={
-		owner = EST
+		owner = SUD
 		buildings = {
-			infrastructure = 4
+			infrastructure = 2
 
 		}
-		add_core_of = EST
+		add_core_of = SUD
 
 	}
 
 	provinces={
-		126 
+		1960 5060 8052 10739
 	}
-	manpower=11000
+	manpower=400000
 	buildings_max_level_factor=1.000
-	state_category = enclave
+	state_category = rural
 }

@@ -11,7 +11,9 @@ SAA = "countries/Saami.txt"
 WLL = "countries/Wallonia.txt"
 
 ##Italy##
+EMR = "countries/Emilia-Romagna.txt"
 KTS = "countries/Kingdom of Two Sicilies.txt"
+PDM = "countries/Piedmont.txt"
 SMR = "countries/San Marino.txt"
 SRD = "countries/Sardinia.txt"
 TUS = "countries/Tuscany.txt"
