@@ -4,24 +4,19 @@ state={
 
 	history=
 	{
-		owner = GER
+		owner = NGA
 		buildings = {
-			infrastructure = 6
+			infrastructure = 3
 		}
-		add_core_of = CZE
-		add_core_of = MRV
-		add_core_of = GER
+		add_core_of = NGA
 
-		1938.9.30 = {
-			owner = GER
-			controller = GER
 		}
 	}
 
 	provinces={
-		13266 
+		1891 1969 4938 4972
 	}
-	manpower=10000
+	manpower=3000000
 	buildings_max_level_factor=1.000
-	state_category = wasteland
+	state_category = rural
 }
