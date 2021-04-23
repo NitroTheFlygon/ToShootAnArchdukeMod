@@ -10,7 +10,6 @@ state={
 		add_core_of = NGA
 
 		}
-	}
 
 	provinces={
 		1891 1969 4938 4972
