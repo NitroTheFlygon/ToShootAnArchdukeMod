@@ -30,6 +30,7 @@ LUS = "countries/Sorbia.txt"
 MRV = "countries/Moravia.txt"
 RHN = "countries/Rhineland.txt"
 SAR = "countries/Saar.txt"
+SIL = "countries/Silesia.txt"
 THU = "countries/Thuringia.txt"
 ZKR = "countries/Carpatho-Ruthenia.txt"
 

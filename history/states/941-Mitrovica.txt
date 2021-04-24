@@ -3,24 +3,22 @@ state={
 	name="STATE_941"
 
 	history={
-		owner = YUG
+		owner = PER
 		victory_points = {
 			9874 1 
 		}
 		buildings = {
-			infrastructure = 4
+			infrastructure = 2
 
 		}
-		add_core_of = YUG
-		add_core_of = SER
-		add_core_of = KOS
+		add_core_of = PER
 
 	}
 
 	provinces={
-		9874 
+		5089 10797
 	}
-	manpower=20400
+	manpower=150000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 }
