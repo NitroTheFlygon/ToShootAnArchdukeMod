@@ -3,19 +3,19 @@ state={
 	name="STATE_890"
 
 	history={
-		owner = SOV
+		owner = HUN
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = SOV
+		add_core_of = HUN
 
 	}
 
 	provinces={
-		415 
+		3731 6751 9690 11520
 	}
-	manpower=21100
+	manpower=600000
 	buildings_max_level_factor=1.000
-	state_category = enclave
+	state_category =large_city
 }
