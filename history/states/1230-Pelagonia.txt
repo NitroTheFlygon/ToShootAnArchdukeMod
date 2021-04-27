@@ -1,3 +1,4 @@
+
 state={
 	id=1230
 	name="STATE_1230"
@@ -7,20 +8,19 @@ state={
 	}
 
 	history={
-		owner = SER
+		owner = JBL
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 1
+			infrastructure = 1
 
 		}
-		
-		add_core_of = MAC
+		add_core_of = JBL
 
 	}
+
 	provinces={
-		3865 11856 13430
+		13343 13344 13511 
 	}
 	manpower=824100
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=wasteland
 }
