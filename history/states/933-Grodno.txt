@@ -3,7 +3,7 @@ state={
 	name="STATE_933"
 
 	history={
-		owner = LIT
+		owner = SOV
 		victory_points = {
 			3393 3
 		}
@@ -12,15 +12,16 @@ state={
 			infrastructure = 5
 
 		}
-		add_core_of = LIT
+		add_core_of = SOV
+		add_core_of = LAT
 		add_core_of = BLR
 
 	}
 
 	provinces={
-		3393 
+		6459 9275
 	}
-	manpower=322421
+	manpower=110000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 }
