@@ -5,6 +5,12 @@ state={
 	history={
                 add_claim_by = GRE
 		owner = TUR
+		victory_points = {
+			6895 3 
+		}
+		victory_points = {
+			11842 3
+		}
 		buildings = {
 			infrastructure = 6
 
@@ -14,9 +20,9 @@ state={
 	}
 
 	provinces={
-		922 3893 11842
+		922 3893 11842 3879 6895 13321
 	}
-	manpower=134400
+	manpower=334400
 	buildings_max_level_factor=1.000
 	state_category=town
 }
