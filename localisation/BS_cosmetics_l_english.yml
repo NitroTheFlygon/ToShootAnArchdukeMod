@@ -27,7 +27,6 @@
  BQR_SOV_autonomy_puppet:0 "Bukhara"
  KML_SOV_autonomy_puppet:0 "Kumul Khanate"
  MON_SOV_autonomy_puppet:0 "Mongolian Protectorate"
- XSM_SOV_autonomy_puppet:0 "Hui State"
  
  FIN_SOV_autonomy_dominion:0 "Grand Duchy of Finland"
  
@@ -59,8 +58,6 @@
  WAF_autonomy_colony:0 "$OVERLORDADJ$ West Africa"
  EAF_autonomy_colony:0 "$OVERLORDADJ$ Equatorial Africa"
  TZN_autonomy_colony:0 "$OVERLORDADJ$ East Africa"
- 
- YUN_autonomy_colony:0 "$OVERLORDADJ$ Yunnan"
 
  VCT_popestates_democratic:0 "Roman Republic"
  VCT_popestates_democratic_DEF:0 "the Roman Republic"

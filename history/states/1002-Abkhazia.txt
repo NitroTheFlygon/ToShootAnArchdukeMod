@@ -14,7 +14,6 @@ state={
 		add_core_of = TCF
 		add_core_of = GEO
 		add_core_of = ABH
-		add_claim_by = NCC
 
 	}
 

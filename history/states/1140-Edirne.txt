@@ -4,7 +4,6 @@ state={
 
 	history={
                 add_claim_by = GRE
-				add_claim_by = BUL
 		owner = TUR
 		victory_points = {
 			6895 3 

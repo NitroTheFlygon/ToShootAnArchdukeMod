@@ -3,12 +3,14 @@ state={
 	name="STATE_984"
 
 	history={
-		owner = RAJ
+		owner = TIB
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = JMK
+		add_core_of = RAJ
+		add_claim_by = PAK
+		add_claim_by = TIB
 
 	}
 
