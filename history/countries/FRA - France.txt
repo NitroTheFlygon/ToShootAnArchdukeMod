@@ -115,6 +115,10 @@ set_autonomy = {
 	target = EAF
 	autonomous_state = autonomy_colony
 }
+set_autonomy = {
+	target = YUN
+	autonomous_state = autonomy_colony
+}
 
 puppet = MOR
 puppet = TUN

@@ -156,6 +156,9 @@ set_autonomy = {
 	target = BLR
 	autonomous_state = autonomy_integrated_puppet
 }
+set_autonomy = {
+	target = XSM
+	autonomous_state = autonomy_puppet
 
 puppet = TAN
 puppet = MON
@@ -177,6 +180,7 @@ puppet = KHV
 puppet = BQR
 puppet = TQS
 puppet = KML
+puppet = XSM
 
 set_convoys = 50
 
